@@ -1,11 +1,5 @@
-##Algoritmos y estructura de datos
+-Editor: Visual Studio Code C++
 
-- Curso: K1253
+-Version: c++20
 
-- Año: 2022
-
-- Legajo: 2037865
-
-- Apellido: Lopez
-
-- Nombre: Luana Belen
+-Compilador: MSYS2
